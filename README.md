@@ -1,3 +1,4 @@
+# Don't think, just do!
 - 👋 Hi, I’m @hidey7
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C
